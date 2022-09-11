@@ -1,4 +1,5 @@
 This is text file for sample download
 Wow finally it was not working with https but worked with Git
 Let us push it from local computer
-Yes the best thing for ever I did , I like it the way you are explaining the things
+Yes you were right the https was not working but worked with GIt finally !!
+
